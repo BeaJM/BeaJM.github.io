@@ -5,12 +5,9 @@ header{
 	color: white;
 	margin-left: auto;
 	margin-right: auto;
-	width: auto;
+	max-width: 95%;
 }
-@media screen and (max-width: 500px) {
-  .header{
-	text-size: 30px;
-}
+
 nav{
 	background: #C3A77B;
 	color: black;
