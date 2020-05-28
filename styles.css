@@ -3,6 +3,9 @@ header{
 	font-size: 55px;
 	font-family:Impact;
 	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
 }
 nav{
 	background: #C3A77B;
