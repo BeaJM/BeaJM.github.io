@@ -71,8 +71,4 @@ footer{
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
-@media only screen and (max-width: 800px) {
-	h1 {
-		text-size: 30px;
-	}
-}
+
