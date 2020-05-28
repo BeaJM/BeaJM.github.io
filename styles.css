@@ -7,6 +7,10 @@ header{
 	margin-right: auto;
 	width: auto;
 }
+@media screen and (max-width: 500px) {
+  .header{
+	text-size: 30px;
+}
 nav{
 	background: #C3A77B;
 	color: black;
