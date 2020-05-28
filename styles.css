@@ -72,7 +72,7 @@ footer{
 	padding-bottom: 15px;
 }
 @media only screen and (max-width: 800px) {
-	header {
+	h1 {
 		text-size: 30px;
 	}
 }
