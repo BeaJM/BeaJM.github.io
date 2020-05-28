@@ -1,0 +1,72 @@
+header{
+	text-align: center;
+	font-size: 55px;
+	font-family:Impact;
+	color: white;
+}
+nav{
+	background: #C3A77B;
+	color: black;
+}
+body{
+	background:#C3A77B;
+	color: black;
+	font-family: Impact;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+.carousel-box{
+	Margin: 5% 20% 5% 20%;
+}
+.card{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.nav-item{
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 20px;
+}
+.etusivu{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 50px;
+	color: white;
+}
+.tieto-sivu{
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+}
+table{
+	margin: 5px;
+	padding: 5px;
+	border: 2px solid white;
+	background-color: #C3A77B;
+	width: 60%;
+	margin-left: auto;
+    margin-right: auto;
+}
+th{
+	font-size: 25px;
+	padding: 5px 10px;
+	border: 1px solid white;
+}
+
+td{
+	padding: 5px 10px;
+	border: 1px solid white;
+}
+footer{
+	background: white;
+	color: black;
+	font-family:Impact;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
